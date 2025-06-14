@@ -47,7 +47,7 @@ A full-featured platform that allows users to browse, list, rent, and manage pro
 
 ```bash
 # Clone the repo
-git clone https://github.com/your-username/property-rental-platform.git
+git clone https://github.com/RealEstate-Rental/property-rental-platform.git
 cd property-rental-platform
 
 # Install dependencies
